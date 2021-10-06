@@ -1,0 +1,2 @@
+# arabic_handwritten_textline_extraction_dataset
+VML-AHTE dataset: Arabic Handwritten Text Line Extraction dataset is a natural handwritten benchmark dataset for text lines with crowdy diacritics, touching and overlapping characters. It is fully labeled at line level by native Arabic speakers. The dataset contains 20 training pages and 10 test pages. Every document image has a corresponding ground truth in the form of pixel labels and PAGE xml.
